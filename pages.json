@@ -3,13 +3,22 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"app-plus": {  
+					"titleNView": {  
+						"buttons": [{  
+							"type": "close",  
+							"float": "left",  
+							"color": "#FFFFFF"  
+						}]  
+					}  
+				},
+				"navigationBarTitleText": "TIME"
 			}
 		}
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
+		"navigationBarTitleText": "TODO1",
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
 	},
