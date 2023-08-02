@@ -12,7 +12,7 @@ uni-app、客户端、 安卓、热榜、套壳、koa
 
 ## 代码仓库
 [mobile-hotlist](https://github.com/mamumu123/mobile-hotlist)
-<!-- （帮我点个免费的 star 吧🥰,您的点赞是我前进的动力） -->
+（帮我点个免费的 star 吧🥰,您的点赞是我前进的动力）
 
 
 ## 项目背景
@@ -66,6 +66,7 @@ uni-app、客户端、 安卓、热榜、套壳、koa
 ![企业微信截图_af92892b-db18-4353-92d6-d25470ea30a4.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f7d2e22eb38f449e940640d1864273d2~tplv-k3u1fbpfcp-watermark.image?)
 
 然后等待一下，就可以查看效果了。
+
 ![截屏2023-07-28 16.29.02.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/44be166dd8574897bf7cf125d494869b~tplv-k3u1fbpfcp-watermark.image?)
 
 如果在模拟器看到效果，那么这一步就完成了。
@@ -166,7 +167,7 @@ onBackPress(e) {
 ## 扩展数据源
 
 ### 代码地址
-[DailyHotApi](https://github.com/imsyy/DailyHotApi)
+[DailyHotApi](https://github.com/mamumu123/DailyHotApi)
 
 ### 功能
 聚合热门数据的 API 接口
